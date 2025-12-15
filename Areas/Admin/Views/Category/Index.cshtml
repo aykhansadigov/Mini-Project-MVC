@@ -1,0 +1,39 @@
+﻿@model List<MVC_Mini_Project.Models.Category>
+
+@{
+    ViewData["Title"] = "Category Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card">
+    <div class="card-body">
+        <h4 class="card-title">Kateqoriyalar</h4>
+
+        <a asp-action="Create" class="btn btn-success mb-3">+ Yeni Kateqoriya</a>
+
+        <div class="table-responsive">
+            <table class="table table-dark">
+                <thead>
+                    <tr>
+                        <th> ID </th>
+                        <th> Ad </th>
+                        <th> Əməliyyatlar </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td> @item.Id </td>
+                            <td> @item.Name </td>
+                            <td>
+                                <a class="btn btn-warning btn-sm">Edit</a>
+                                <a class="btn btn-danger btn-sm">Delete</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
