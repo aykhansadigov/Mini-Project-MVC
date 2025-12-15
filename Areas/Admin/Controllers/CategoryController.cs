@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using MVC_Mini_Project.DAL;    
 using MVC_Mini_Project.Models;  
-
+TAM BITIRE BILMEIDM 
 namespace MVC_Mini_Project.Areas.Admin.Controllers
 {
     [Area("Admin")]
