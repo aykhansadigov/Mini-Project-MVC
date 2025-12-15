@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-Mini Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D4236759-115A-4ECC-84F1-4D65AE0C20E6}|MVC-Mini Project.csproj|c:\\users\\asus\\onedrive\\desktop\\mvc-mini project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4236759-115A-4ECC-84F1-4D65AE0C20E6}|MVC-Mini Project.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4236759-115A-4ECC-84F1-4D65AE0C20E6}|MVC-Mini Project.csproj|c:\\users\\asus\\onedrive\\desktop\\mvc-mini project\\views\\details\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4236759-115A-4ECC-84F1-4D65AE0C20E6}|MVC-Mini Project.csproj|solutionrelative:views\\details\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D4236759-115A-4ECC-84F1-4D65AE0C20E6}|MVC-Mini Project.csproj|c:\\users\\asus\\onedrive\\desktop\\mvc-mini project\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D4236759-115A-4ECC-84F1-4D65AE0C20E6}|MVC-Mini Project.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -15,10 +23,6 @@
       "RelativeMoniker": "D:0:0:{D4236759-115A-4ECC-84F1-4D65AE0C20E6}|MVC-Mini Project.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4236759-115A-4ECC-84F1-4D65AE0C20E6}|MVC-Mini Project.csproj|c:\\users\\asus\\onedrive\\desktop\\mvc-mini project\\views\\shop\\details\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D4236759-115A-4ECC-84F1-4D65AE0C20E6}|MVC-Mini Project.csproj|solutionrelative:views\\shop\\details\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D4236759-115A-4ECC-84F1-4D65AE0C20E6}|MVC-Mini Project.csproj|c:\\users\\asus\\onedrive\\desktop\\mvc-mini project\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4236759-115A-4ECC-84F1-4D65AE0C20E6}|MVC-Mini Project.csproj|solutionrelative:models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -29,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D4236759-115A-4ECC-84F1-4D65AE0C20E6}|MVC-Mini Project.csproj|c:\\users\\asus\\onedrive\\desktop\\mvc-mini project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4236759-115A-4ECC-84F1-4D65AE0C20E6}|MVC-Mini Project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4236759-115A-4ECC-84F1-4D65AE0C20E6}|MVC-Mini Project.csproj|c:\\users\\asus\\onedrive\\desktop\\mvc-mini project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D4236759-115A-4ECC-84F1-4D65AE0C20E6}|MVC-Mini Project.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D4236759-115A-4ECC-84F1-4D65AE0C20E6}|MVC-Mini Project.csproj|c:\\users\\asus\\onedrive\\desktop\\mvc-mini project\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -150,20 +150,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-Mini Project\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-Mini Project\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-15T14:42:36.792Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 34,
@@ -178,19 +166,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-Mini Project\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-Mini Project\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHUAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHgAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-12T15:24:18.829Z"
+              "WhenOpened": "2025-12-12T15:24:18.829Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-Mini Project\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -202,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-Mini Project\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -214,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-Mini Project\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Models\\Category.cs",
@@ -226,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-Mini Project\\Models\\AppUser.cs",
               "RelativeDocumentMoniker": "Models\\AppUser.cs",
@@ -238,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-Mini Project\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
@@ -251,6 +240,31 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-Mini Project\\Views\\Details\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Details\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-Mini Project\\Views\\Details\\Index.cshtml",
+              "RelativeToolTip": "Views\\Details\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQBAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-12T15:35:14.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-Mini Project\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-Mini Project\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-15T14:42:36.792Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 13,
               "Title": "RegisterVM.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-Mini Project\\ViewModels\\RegisterVM.cs",
@@ -260,18 +274,6 @@
               "ViewState": "AgIAAAgAAAAAAAAAAAAcwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-15T10:54:26.04Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-Mini Project\\Views\\Shop\\Details\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shop\\Details\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MVC-Mini Project\\Views\\Shop\\Details\\Index.cshtml",
-              "RelativeToolTip": "Views\\Shop\\Details\\Index.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAAUAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-12T15:35:14.387Z"
             },
             {
               "$type": "Document",
@@ -572,10 +574,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-12-12T15:20:37.27Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             }
           ]
         }
